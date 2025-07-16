@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Extendable Dining Table\\Extendable Dining Table1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Extendable Dining Table\\Extendable Dining Table1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Extendable Dining Table\\Extendable Dining Table2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Extendable Dining Table\\Extendable Dining Table2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Extendable Dining Table\\Extendable Dining Table3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Extendable Dining Table\\Extendable Dining Table3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Kids Bunk Bed - White Finish\\Kids Bunk Bed - White Finish3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Minimalist Writing Desk\\Minimalist Writing Desk3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa1.webp",
+      "PackagePath": "staticwebassets\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa1.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa2.webp",
+      "PackagePath": "staticwebassets\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa2.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa3.webp",
+      "PackagePath": "staticwebassets\\Images\\Modern Velvet Sofa\\Modern Velvet Sofa3.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame1.webp",
+      "PackagePath": "staticwebassets\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame1.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame2.webp",
+      "PackagePath": "staticwebassets\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame2.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame3.webp",
+      "PackagePath": "staticwebassets\\Images\\Scandinavian Bed Frame\\Scandinavian Bed Frame3.webp"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AS\\Desktop\\Furniture-Website-Net&Angular\\Ecom\\Ecom.API\\wwwroot\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Triple Wardrobe with Mirror\\Triple Wardrobe with Mirror3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ecom.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ecom.API.props",
+      "PackagePath": "build\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecom.API.props",
+      "PackagePath": "buildMultiTargeting\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ecom.API.props",
+      "PackagePath": "buildTransitive\\Ecom.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

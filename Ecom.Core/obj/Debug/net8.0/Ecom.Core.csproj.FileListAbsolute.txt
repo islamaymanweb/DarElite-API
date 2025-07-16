@@ -1,0 +1,12 @@
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.deps.json
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.dll
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\bin\Debug\net8.0\Ecom.Core.pdb
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfoInputs.cache
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfo.cs
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.dll
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\refint\Ecom.Core.dll
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\Ecom.Core.pdb
+C:\Users\AS\Desktop\Furniture-Website-Net&Angular\Ecom\Ecom.Core\obj\Debug\net8.0\ref\Ecom.Core.dll
